@@ -1,9 +1,6 @@
 {
-  "posts": [
-    {
-      "FWversion":"1.0"
-    }
-  ],
+  "posts":{"FWversion":"1.0"}
+  ,
   "profile": {
     "name": "typicode"
   }
